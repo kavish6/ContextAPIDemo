@@ -1,4 +1,4 @@
-# This is a small project to demonstrate the working of ContextAPI in reac
+# This is a small project to demonstrate the working of ContextAPI in react. It is a simple Task List.
 
 ### Functioning
 
